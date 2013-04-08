@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_cases" value="name:count(*);datatype:int" />
+	<infoitem key="UD_caseList" value="name:title;datatype:string,name:status;datatype:string,name:id;datatype:int,name:category;datatype:blob,name:parish;datatype:blob,name:district;datatype:blob,name:fullname;datatype:string,name:dated;datatype:timestamp" />
+</info>

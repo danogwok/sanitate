@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_msg" value="name:id;datatype:int,name:time_received;datatype:timestamp,name:number;datatype:string,name:message;datatype:string,name:case_id;datatype:int,name:status;datatype:string" />
+</info>

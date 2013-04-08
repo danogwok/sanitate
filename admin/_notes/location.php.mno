@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_locations" value="name:id;datatype:int,name:district;datatype:blob,name:parish;datatype:blob" />
+</info>

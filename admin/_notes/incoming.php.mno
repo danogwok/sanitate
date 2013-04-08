@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_unread" value="name:count(*);datatype:int" />
+	<infoitem key="UD_incoming" value="name:id;datatype:int,name:time_received;datatype:timestamp,name:number;datatype:int,name:message;datatype:string,name:case_id;datatype:int,name:status;datatype:string" />
+</info>

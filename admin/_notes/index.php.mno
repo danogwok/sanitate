@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_cases" value="name:id;datatype:int,name:parish;datatype:blob,name:district;datatype:blob,name:catname;datatype:blob,name:status;datatype:string,name:fullname;datatype:string,name:title;datatype:string,name:description;datatype:string" />
+	<infoitem key="UD_msg" value="name:message;datatype:string,name:number;datatype:string,name:time_received;datatype:timestamp" />
+	<infoitem key="UD_msgNo" value="name:count(*);datatype:int" />
+</info>
